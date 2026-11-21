@@ -1,0 +1,11 @@
+# never commit game data or exports
+*.ttpf
+*.rpf
+*.xvd
+*.bk2
+*.bik
+*.dds
+*_export/
+# python
+__pycache__/
+*.pyc
